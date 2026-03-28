@@ -14,6 +14,9 @@
 					"secureInput": false
 				},
 				"userProperties": [],
+				"typeProperties": {
+					"jobId": "261934246964697"
+				},
 				"linkedServiceName": {
 					"referenceName": "LS_Databricks",
 					"type": "LinkedServiceReference"
