@@ -1,9 +1,9 @@
 {
 	"name": "adf-revodata",
-	"location": "northeurope",
+	"location": "westeurope",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "0cfca79a-83a7-4421-9c59-f0b376650e07",
+		"principalId": "f0edba30-2d2a-4c2c-af51-21e12835e1fe",
 		"tenantId": "2ddc68bf-a7e0-4cbc-b5ce-8a68d8d2b197"
 	}
 }
